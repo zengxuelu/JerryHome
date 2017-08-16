@@ -1,2 +1,2 @@
-# JerryHome
-###jQuery封装的瀑布流插件
+# jQuery封装的瀑布流插件
+
